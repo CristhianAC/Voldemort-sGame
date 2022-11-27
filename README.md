@@ -1,7 +1,7 @@
 # Voldemort-sGame
 # Integrantes:
 ## Cristhian Agamez
-## Jesus De La Kruz
+## Jesus De La Cruz
 ## Mateo Guerrero
 ## Brayan Gutierrez
 ## Nicolas Rodriguez
